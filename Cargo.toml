@@ -1,0 +1,11 @@
+[package]
+name = "meta-enum"
+version = "0.1.0"
+edition = "2024"
+description = "Meta Information on C-Style Enum Inspired by QMetaEnum"
+homepage = "https://github.com/RezaBani/meta-enum"
+repository = "https://github.com/RezaBani/meta-enum"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+meta-enum-derive = "0.1.0"
