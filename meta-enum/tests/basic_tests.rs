@@ -1,4 +1,5 @@
 use meta_enum::{MetaEnum, ParseMetaEnumError};
+use meta_enum_derive::MetaEnum;
 
 #[derive(Debug, MetaEnum, Clone, Copy, PartialEq)]
 enum SingleEnum {

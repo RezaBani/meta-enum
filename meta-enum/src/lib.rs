@@ -48,4 +48,5 @@ pub trait MetaEnum: From<i32> + From<u8> + Into<i32> + Into<u8> + FromStr {
     }
 }
 
+#[cfg(feature = "derive")]
 pub use meta_enum_derive::MetaEnum;

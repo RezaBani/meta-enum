@@ -1,10 +1,10 @@
 [package]
 name = "meta-enum-derive"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2024"
 description = "Proc Macro for meta-enum crate"
-homepage = "https://github.com/RezaBani/meta-enum-derive"
-repository = "https://github.com/RezaBani/meta-enum-derive"
+homepage = "https://github.com/RezaBani/meta-enum"
+repository = "https://github.com/RezaBani/meta-enum"
 license = "MIT OR Apache-2.0"
 
 [lib]
